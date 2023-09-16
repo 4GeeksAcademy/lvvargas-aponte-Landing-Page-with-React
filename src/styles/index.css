@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans");
+
+body{
+    font-family: plus Jakarta Sans;
+}
+
+img {
+    width: auto;
+    height: 200px;
+}
+
+.jumbo {
+    width: auto;
+    background-color: lightgray;
+}
